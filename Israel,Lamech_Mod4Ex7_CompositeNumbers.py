@@ -2,7 +2,7 @@
 # CS 1110A - Programming in Python          #
 # Module 4 - Exercise 7 - Composit Numbers  #
 # Author: Lamech Israel                     #
-# Date:   01/30/2023                        #
+#                                           #
 #############################################
 
 
